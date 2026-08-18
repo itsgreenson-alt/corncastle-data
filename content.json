@@ -1,122 +1,152 @@
 {
-  "media": [
+  "sliders": [
     {
-      "id": 1,
-      "title": "Breaking Bad",
-      "type": "series",
-      "description": "معلم كيمياء يتحول إلى صانع مخدرات بعد تشخيص إصابته بالسرطان",
-      "poster": "https://picsum.photos/300/450?random=1",
-      "backdrop": "https://picsum.photos/800/500?random=1",
-      "episodes": [
-        {
-          "episode": 1,
-          "title": "Pilot",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        },
-        {
-          "episode": 2,
-          "title": "Cat's in the Bag...",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        }
-      ]
+      "id": "slider1",
+      "image": "https://via.placeholder.com/300x200/8B5CF6/FFFFFF?text=Adventure",
+      "title": "Adventure"
     },
     {
-      "id": 2,
-      "title": "Game of Thrones",
-      "type": "series",
-      "description": "صراع على العرش بين العائلات النبيلة في عالم خيالي مليء بالخيانة والحروب",
-      "poster": "https://picsum.photos/300/450?random=2",
-      "backdrop": "https://picsum.photos/800/500?random=2",
-      "episodes": [
-        {
-          "episode": 1,
-          "title": "Winter Is Coming",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        },
-        {
-          "episode": 2,
-          "title": "The Kingsroad",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        }
-      ]
+      "id": "slider2",
+      "image": "https://via.placeholder.com/300x200/EF4444/FFFFFF?text=Movies",
+      "title": "Movies"
     },
     {
-      "id": 3,
-      "title": "Stranger Things",
-      "type": "series",
-      "description": "مجموعة أطفال يواجهون قوى خارقة وأسرار حكومية في بلدة صغيرة في الثمانينات",
-      "poster": "https://picsum.photos/300/450?random=3",
-      "backdrop": "https://picsum.photos/800/500?random=3",
-      "episodes": [
-        {
-          "episode": 1,
-          "title": "The Vanishing of Will Byers",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        },
-        {
-          "episode": 2,
-          "title": "The Weirdo on Maple Street",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        }
-      ]
-    },
+      "id": "slider3",
+      "image": "https://via.placeholder.com/300x200/EC4899/FFFFFF?text=Zumorroda",
+      "title": "Zumorroda"
+    }
+  ],
+  "categories": [
     {
-      "id": 4,
-      "title": "The Office",
-      "type": "series",
-      "description": "كوميديا ساخرة عن حياة موظفي مكتب في شركة ورق أمريكية",
-      "poster": "https://picsum.photos/300/450?random=4",
-      "backdrop": "https://picsum.photos/800/500?random=4",
-      "episodes": [
+      "name": "أفلام",
+      "items": [
         {
-          "episode": 1,
-          "title": "Pilot",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          "id": "series1",
+          "title": "كونان - كنز في أعماق البحار",
+          "cover": "https://via.placeholder.com/250x350/3B82F6/FFFFFF?text=Conan+1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            {
+              "number": 2,
+              "title": "الحلقة 2",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+              "number": 3,
+              "title": "الحلقة 3",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            }
+          ]
         },
         {
-          "episode": 2,
-          "title": "Diversity Day",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Friends",
-      "type": "series",
-      "description": "ست أصدقاء يعيشون في نيويورك ويواجهون الحب والصداقة والمواقف الكوميدية",
-      "poster": "https://picsum.photos/300/450?random=5",
-      "backdrop": "https://picsum.photos/800/500?random=5",
-      "episodes": [
-        {
-          "episode": 1,
-          "title": "The One Where Monica Gets a Roommate",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          "id": "series2",
+          "title": "رانتارو - سيد النينجا",
+          "cover": "https://via.placeholder.com/250x350/10B981/FFFFFF?text=Rantaro",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            },
+            {
+              "number": 2,
+              "title": "الحلقة 2",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            }
+          ]
         },
         {
-          "episode": 2,
-          "title": "The One with the Sonogram at the End",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Doctor Who",
-      "type": "series",
-      "description": "مغامرات الدكتور عبر الزمن والفضاء في سلسلة بريطانية كلاسيكية",
-      "poster": "https://picsum.photos/300/450?random=6",
-      "backdrop": "https://picsum.photos/800/500?random=6",
-      "episodes": [
-        {
-          "episode": 1,
-          "title": "An Unearthly Child",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          "id": "series3",
+          "title": "كونان - سيمفونية الخوف",
+          "cover": "https://via.placeholder.com/250x350/F59E0B/FFFFFF?text=Conan+2",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+            }
+          ]
         },
         {
-          "episode": 2,
-          "title": "The Daleks",
-          "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          "id": "series4",
+          "title": "كونان - عباد الشمس والجحيم",
+          "cover": "https://via.placeholder.com/250x350/EF4444/FFFFFF?text=Conan+3",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+            },
+            {
+              "number": 2,
+              "title": "الحلقة 2",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "series5",
+          "title": "الهارب",
+          "cover": "https://via.placeholder.com/250x350/6366F1/FFFFFF?text=Fugitive",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+            }
+          ]
+        },
+        {
+          "id": "series6",
+          "title": "مسرح الحياة",
+          "cover": "https://via.placeholder.com/250x350/8B5CF6/FFFFFF?text=Theater",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            }
+          ]
+        },
+        {
+          "id": "series7",
+          "title": "خيالي",
+          "cover": "https://via.placeholder.com/250x350/EC4899/FFFFFF?text=Fantasy",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+            }
+          ]
+        },
+        {
+          "id": "series8",
+          "title": "Enchantimals - أسرار وادي الثلج",
+          "cover": "https://via.placeholder.com/250x350/14B8A6/FFFFFF?text=Enchantimals+1",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+            }
+          ]
+        },
+        {
+          "id": "series9",
+          "title": "Enchantimals - إيجاد المنزل",
+          "cover": "https://via.placeholder.com/250x350/F97316/FFFFFF?text=Enchantimals+2",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+            }
+          ]
         }
       ]
     }
