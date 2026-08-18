@@ -1,152 +1,58 @@
 {
-  "sliders": [
+  "title": "أفلام",
+  "slider": [
     {
-      "id": "slider1",
-      "image": "https://via.placeholder.com/300x200/8B5CF6/FFFFFF?text=Adventure",
-      "title": "Adventure"
+      "id": "conan",
+      "image": "https://example.com/banners/conan.png"
     },
     {
-      "id": "slider2",
-      "image": "https://via.placeholder.com/300x200/EF4444/FFFFFF?text=Movies",
-      "title": "Movies"
+      "id": "rantaro",
+      "image": "https://example.com/banners/rantaro.png"
     },
     {
-      "id": "slider3",
-      "image": "https://via.placeholder.com/300x200/EC4899/FFFFFF?text=Zumorroda",
-      "title": "Zumorroda"
+      "id": "enchantimals",
+      "image": "https://example.com/banners/enchantimals.png"
     }
   ],
-  "categories": [
+  "series": [
     {
-      "name": "أفلام",
-      "items": [
+      "id": "conan",
+      "title": "المحقق كونان",
+      "poster": "https://example.com/posters/conan.jpg",
+      "episodes": [
         {
-          "id": "series1",
-          "title": "كونان - كنز في أعماق البحار",
-          "cover": "https://via.placeholder.com/250x350/3B82F6/FFFFFF?text=Conan+1",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-            },
-            {
-              "number": 2,
-              "title": "الحلقة 2",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-            },
-            {
-              "number": 3,
-              "title": "الحلقة 3",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-            }
-          ]
+          "number": 1,
+          "title": "الحلقة 1",
+          "video": "https://example.com/videos/conan-01.mp4"
         },
         {
-          "id": "series2",
-          "title": "رانتارو - سيد النينجا",
-          "cover": "https://via.placeholder.com/250x350/10B981/FFFFFF?text=Rantaro",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-            },
-            {
-              "number": 2,
-              "title": "الحلقة 2",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-            }
-          ]
-        },
+          "number": 2,
+          "title": "الحلقة 2",
+          "video": "https://example.com/videos/conan-02.mp4"
+        }
+      ]
+    },
+    {
+      "id": "rantaro",
+      "title": "رانتارو",
+      "poster": "https://example.com/posters/rantaro.jpg",
+      "episodes": [
         {
-          "id": "series3",
-          "title": "كونان - سيمفونية الخوف",
-          "cover": "https://via.placeholder.com/250x350/F59E0B/FFFFFF?text=Conan+2",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
-            }
-          ]
-        },
+          "number": 1,
+          "title": "الحلقة 1",
+          "video": "https://example.com/videos/rantaro-01.mp4"
+        }
+      ]
+    },
+    {
+      "id": "enchantimals",
+      "title": "Enchantimals",
+      "poster": "https://example.com/posters/enchantimals.jpg",
+      "episodes": [
         {
-          "id": "series4",
-          "title": "كونان - عباد الشمس والجحيم",
-          "cover": "https://via.placeholder.com/250x350/EF4444/FFFFFF?text=Conan+3",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
-            },
-            {
-              "number": 2,
-              "title": "الحلقة 2",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
-            }
-          ]
-        },
-        {
-          "id": "series5",
-          "title": "الهارب",
-          "cover": "https://via.placeholder.com/250x350/6366F1/FFFFFF?text=Fugitive",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
-            }
-          ]
-        },
-        {
-          "id": "series6",
-          "title": "مسرح الحياة",
-          "cover": "https://via.placeholder.com/250x350/8B5CF6/FFFFFF?text=Theater",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-            }
-          ]
-        },
-        {
-          "id": "series7",
-          "title": "خيالي",
-          "cover": "https://via.placeholder.com/250x350/EC4899/FFFFFF?text=Fantasy",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
-            }
-          ]
-        },
-        {
-          "id": "series8",
-          "title": "Enchantimals - أسرار وادي الثلج",
-          "cover": "https://via.placeholder.com/250x350/14B8A6/FFFFFF?text=Enchantimals+1",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
-            }
-          ]
-        },
-        {
-          "id": "series9",
-          "title": "Enchantimals - إيجاد المنزل",
-          "cover": "https://via.placeholder.com/250x350/F97316/FFFFFF?text=Enchantimals+2",
-          "episodes": [
-            {
-              "number": 1,
-              "title": "الحلقة 1",
-              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
-            }
-          ]
+          "number": 1,
+          "title": "الحلقة 1",
+          "video": "https://example.com/videos/enchantimals-01.mp4"
         }
       ]
     }
