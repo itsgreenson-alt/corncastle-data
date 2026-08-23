@@ -1,6 +1,6 @@
 {
   "shows": [
-  {
+{
   "id": 17,
   "title": "دامو ستحيل",
   "poster": "https://image.tmdb.org/t/p/original/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
@@ -61,94 +61,145 @@
   ]
 },
     {
-      "id": 15,
-      "title": "سلاحف النينجا 2003",
-      "poster": "https://image.tmdb.org/t/p/original/x5eOWgIjdjHVU4wRTdH7sfoBhpA.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "الحلقة 1",
-          "duration": "50:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
-        },
-        {
-          "number": 2,
-          "title": "الحلقة 2",
-          "duration": "48:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-        }
-      ]
-    },
+  "id": 15,
+  "title": "سلاحف النينجا 2003",
+  "poster": "https://image.tmdb.org/t/p/original/x5eOWgIjdjHVU4wRTdH7sfoBhpA.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-01.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-02.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-03.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-04.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-05.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-06.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-07.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-08.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-09.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "21:00", "video": "https://site.word.tn/videos/ninja-turtles-part-1/ninja-turtles-part-1-26.mp4"}
+  ]
+},
     {
-      "id": 14,
-      "title": "صائد الغيلان",
-      "poster": "https://image.tmdb.org/t/p/original/1YLsP5oZf2GPvDkCskwX4bIlP9P.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "الحلقة 1",
-          "duration": "22:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        },
-        {
-          "number": 2,
-          "title": "الحلقة 2",
-          "duration": "22:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        }
-      ]
-    },
+  "id": 14,
+  "title": "صائد الغيلان",
+  "poster": "https://image.tmdb.org/t/p/original/1YLsP5oZf2GPvDkCskwX4bIlP9P.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "22:00", "video": "https://site.word.tn/videos/trollhunters-part-1/trollhunters-part-1-26.mp4"}
+  ]
+},
     {
-      "id": 13,
-      "title": "جوني تيست",
-      "poster": "https://image.tmdb.org/t/p/original/cGceNrHpUl3utUzE502xSY8l9ST.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "الحلقة 1",
-          "duration": "24:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        },
-        {
-          "number": 2,
-          "title": "الحلقة 2",
-          "duration": "24:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-        }
-      ]
-    },
+  "id": 13,
+  "title": "جوني تيست",
+  "poster": "https://image.tmdb.org/t/p/original/cGceNrHpUl3utUzE502xSY8l9ST.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "24:00", "video": "https://site.word.tn/videos/johnny-test-part-1/johnny-test-part-1-20.mp4"}
+  ]
+},
     {
-      "id": 12,
-      "title": "مغامرات جاكي شان",
-      "poster": "https://image.tmdb.org/t/p/original/2wnIUHDxpnlAnFfGnycxiTJaufG.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "22:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
-        }
-      ]
-    },
+  "id": 12,
+  "title": "مغامرات جاكي شان",
+  "poster": "https://image.tmdb.org/t/p/original/2wnIUHDxpnlAnFfGnycxiTJaufG.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "22:00", "video": "https://site.word.tn/videos/jackie-chan-adventures-part-1/jackie-chan-adventures-part-1-13.mp4"}
+  ]
+},
     {
-      "id": 11,
-      "title": "سبونج بوب",
-      "poster": "https://image.tmdb.org/t/p/original/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "20:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "20:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-        }
-      ]
-    },
+  "id": 11,
+  "title": "سبونج بوب",
+  "poster": "https://image.tmdb.org/t/p/original/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "20:00", "video": "https://site.word.tn/videos/spongebob-part-2/spongebob-part-2-20.mp4"}
+  ]
+},
     {
       "id": 10,
       "title": "داني الشبح",
