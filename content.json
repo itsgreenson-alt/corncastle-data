@@ -201,188 +201,368 @@
   ]
 },
     {
-      "id": 10,
-      "title": "داني الشبح",
-      "poster": "https://image.tmdb.org/t/p/original/u5gI5aZgpqT42sIVsHzmhS283pP.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "11:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        }
-      ]
-    },
+  "id": 10,
+  "title": "داني الشبح",
+  "poster": "https://image.tmdb.org/t/p/original/u5gI5aZgpqT42sIVsHzmhS283pP.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "11:00", "video": "https://site.word.tn/videos/danny-phantom-part-1/danny-phantom-part-1-20.mp4"}
+  ]
+},
     {
-      "id": 9,
-      "title": "العرض العادي",
-      "poster": "https://image.tmdb.org/t/p/original/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 9,
+  "title": "العرض العادي",
+  "poster": "https://image.tmdb.org/t/p/original/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/regular-show-part-1/regular-show-part-1-12.mp4"}
+  ]
+},
     {
-      "id": 8,
-      "title": "جيمي نيوترون",
-      "poster": "https://image.tmdb.org/t/p/original/mTMSsfA32WiBQPAPQa9hjBgtOWr.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 8,
+  "title": "جيمي نيوترون",
+  "poster": "https://image.tmdb.org/t/p/original/mTMSsfA32WiBQPAPQa9hjBgtOWr.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-26.mp4"},
+    {"number": 27, "title": "الحلقة 27", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-27.mp4"},
+    {"number": 28, "title": "الحلقة 28", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-28.mp4"},
+    {"number": 29, "title": "الحلقة 29", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-29.mp4"},
+    {"number": 30, "title": "الحلقة 30", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-30.mp4"},
+    {"number": 31, "title": "الحلقة 31", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-31.mp4"},
+    {"number": 32, "title": "الحلقة 32", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-32.mp4"},
+    {"number": 33, "title": "الحلقة 33", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-33.mp4"},
+    {"number": 34, "title": "الحلقة 34", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-34.mp4"},
+    {"number": 35, "title": "الحلقة 35", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-35.mp4"},
+    {"number": 36, "title": "الحلقة 36", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-36.mp4"},
+    {"number": 37, "title": "الحلقة 37", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-37.mp4"},
+    {"number": 38, "title": "الحلقة 38", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-38.mp4"},
+    {"number": 39, "title": "الحلقة 39", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-39.mp4"},
+    {"number": 40, "title": "الحلقة 40", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-40.mp4"},
+    {"number": 41, "title": "الحلقة 41", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-41.mp4"},
+    {"number": 42, "title": "الحلقة 42", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-42.mp4"},
+    {"number": 43, "title": "الحلقة 43", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-43.mp4"},
+    {"number": 44, "title": "الحلقة 44", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-44.mp4"},
+    {"number": 45, "title": "الحلقة 45", "duration": "23:00", "video": "https://site.word.tn/videos/jimmy-neutron/jimmy-neutron-45.mp4"}
+  ]
+},
     {
-      "id": 7,
-      "title": "عالم غامبول المدهش",
-      "poster": "https://image.tmdb.org/t/p/original/sbqsVMvT4l2ulV00WwMBkjjIAmB.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 7,
+  "title": "عالم غامبول المدهش",
+  "poster": "https://image.tmdb.org/t/p/original/sbqsVMvT4l2ulV00WwMBkjjIAmB.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-26.mp4"},
+    {"number": 27, "title": "الحلقة 27", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-27.mp4"},
+    {"number": 28, "title": "الحلقة 28", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-28.mp4"},
+    {"number": 29, "title": "الحلقة 29", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-29.mp4"},
+    {"number": 30, "title": "الحلقة 30", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-30.mp4"},
+    {"number": 31, "title": "الحلقة 31", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-31.mp4"},
+    {"number": 32, "title": "الحلقة 32", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-32.mp4"},
+    {"number": 33, "title": "الحلقة 33", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-33.mp4"},
+    {"number": 34, "title": "الحلقة 34", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-34.mp4"},
+    {"number": 35, "title": "الحلقة 35", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-35.mp4"},
+    {"number": 36, "title": "الحلقة 36", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-36.mp4"},
+    {"number": 37, "title": "الحلقة 37", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-37.mp4"},
+    {"number": 38, "title": "الحلقة 38", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-38.mp4"},
+    {"number": 39, "title": "الحلقة 39", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-39.mp4"},
+    {"number": 40, "title": "الحلقة 40", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-40.mp4"},
+    {"number": 41, "title": "الحلقة 41", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-41.mp4"},
+    {"number": 42, "title": "الحلقة 42", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-42.mp4"},
+    {"number": 43, "title": "الحلقة 43", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-43.mp4"},
+    {"number": 44, "title": "الحلقة 44", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-44.mp4"},
+    {"number": 45, "title": "الحلقة 45", "duration": "23:00", "video": "https://site.word.tn/videos/the-amazing-world-of-gumball/the-amazing-world-of-gumball-45.mp4"}
+  ]
+},
     {
-      "id": 6,
-      "title": "هيلدا الشجاعة",
-      "poster": "https://image.tmdb.org/t/p/original/giWufGBC7uxrmK9ZESdk9D1cyGm.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 6,
+  "title": "هيلدا الشجاعة",
+  "poster": "https://image.tmdb.org/t/p/original/giWufGBC7uxrmK9ZESdk9D1cyGm.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-01.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-02.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-03.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-04.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-05.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-06.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-07.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-08.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-09.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/hilda-part-1/hilda-part-1-13.mp4"}
+  ]
+},
     {
-      "id": 5,
-      "title": "ياكاري",
-      "poster": "https://image.tmdb.org/t/p/original/6f0BgHD2MCbXYutUcoAjJXc7IAQ.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 5,
+  "title": "ياكاري",
+  "poster": "https://image.tmdb.org/t/p/original/6f0BgHD2MCbXYutUcoAjJXc7IAQ.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "23:00", "video": "https://site.word.tn/videos/yakari/yakari-26.mp4"}
+  ]
+},
     {
-      "id": 4,
-      "title": "باكوغان",
-      "poster": "https://image.tmdb.org/t/p/original/vptVwP1uej035bHzirMtEMSndn.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 4,
+  "title": "باكوغان",
+  "poster": "https://image.tmdb.org/t/p/original/vptVwP1uej035bHzirMtEMSndn.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-26.mp4"},
+    {"number": 27, "title": "الحلقة 27", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-27.mp4"},
+    {"number": 28, "title": "الحلقة 28", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-28.mp4"},
+    {"number": 29, "title": "الحلقة 29", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-29.mp4"},
+    {"number": 30, "title": "الحلقة 30", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-30.mp4"},
+    {"number": 31, "title": "الحلقة 31", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-31.mp4"},
+    {"number": 32, "title": "الحلقة 32", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-32.mp4"},
+    {"number": 33, "title": "الحلقة 33", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-33.mp4"},
+    {"number": 34, "title": "الحلقة 34", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-34.mp4"},
+    {"number": 35, "title": "الحلقة 35", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-35.mp4"},
+    {"number": 36, "title": "الحلقة 36", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-36.mp4"},
+    {"number": 37, "title": "الحلقة 37", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-37.mp4"},
+    {"number": 38, "title": "الحلقة 38", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-38.mp4"},
+    {"number": 39, "title": "الحلقة 39", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-39.mp4"},
+    {"number": 40, "title": "الحلقة 40", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-40.mp4"},
+    {"number": 41, "title": "الحلقة 41", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-41.mp4"},
+    {"number": 42, "title": "الحلقة 42", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-42.mp4"},
+    {"number": 43, "title": "الحلقة 43", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-43.mp4"},
+    {"number": 44, "title": "الحلقة 44", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-44.mp4"},
+    {"number": 45, "title": "الحلقة 45", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-45.mp4"},
+    {"number": 46, "title": "الحلقة 46", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-46.mp4"},
+    {"number": 47, "title": "الحلقة 47", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-47.mp4"},
+    {"number": 48, "title": "الحلقة 48", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-48.mp4"},
+    {"number": 49, "title": "الحلقة 49", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-49.mp4"},
+    {"number": 50, "title": "الحلقة 50", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-50.mp4"},
+    {"number": 51, "title": "الحلقة 51", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-51.mp4"},
+    {"number": 52, "title": "الحلقة 52", "duration": "23:00", "video": "https://site.word.tn/videos/bakugan-part-1/bakugan-part-1-52.mp4"}
+  ]
+},
     {
-      "id": 3,
-      "title": "كونغ فو باندا: أساطير الروعة",
-      "poster": "https://image.tmdb.org/t/p/original/z6wKHqOqeDU7XlVluZl3dR6TVGE.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 3,
+  "title": "كونغ فو باندا: أساطير الروعة",
+  "poster": "https://image.tmdb.org/t/p/original/z6wKHqOqeDU7XlVluZl3dR6TVGE.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "23:00", "video": "https://site.word.tn/videos/kung-fu-panda-part-1/kung-fu-panda-part-1-26.mp4"}
+  ]
+},
     {
-      "id": 2,
-      "title": "ميراكيلوس",
-      "poster": "https://image.tmdb.org/t/p/original/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
+  "id": 2,
+  "title": "ميراكيلوس",
+  "poster": "https://image.tmdb.org/t/p/original/psDcRgUX38cIeGeADwLRPyO7SYC.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "23:00", "video": "https://site.word.tn/videos/miraculous-tales-part-1/miraculous-tales-part-1-26.mp4"}
+  ]
+},
     {
-      "id": 1,
-      "title": "عالم الطباشير",
-      "poster": "https://image.tmdb.org/t/p/original/vbRK4B7bRj7pr0xW3Ddxawvoyzy.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "Episode 1",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 2,
-          "title": "Episode 2",
-          "duration": "23:00",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    }
+  "id": 1,
+  "title": "عالم الطباشير",
+  "poster": "https://image.tmdb.org/t/p/original/vbRK4B7bRj7pr0xW3Ddxawvoyzy.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-20.mp4"},
+    {"number": 21, "title": "الحلقة 21", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-21.mp4"},
+    {"number": 22, "title": "الحلقة 22", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-22.mp4"},
+    {"number": 23, "title": "الحلقة 23", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-23.mp4"},
+    {"number": 24, "title": "الحلقة 24", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-24.mp4"},
+    {"number": 25, "title": "الحلقة 25", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-25.mp4"},
+    {"number": 26, "title": "الحلقة 26", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-26.mp4"},
+    {"number": 27, "title": "الحلقة 27", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-27.mp4"},
+    {"number": 28, "title": "الحلقة 28", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-28.mp4"},
+    {"number": 29, "title": "الحلقة 29", "duration": "23:00", "video": "https://site.word.tn/videos/chalkzone/chalkzone-29.mp4"}
+  ]
+}
   ]
 }
