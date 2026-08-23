@@ -1,54 +1,31 @@
 {
   "shows": [
   {
-      "id": 18,
-      "title": "دامو ستحيل",
-      "poster": "https://image.tmdb.org/t/p/original/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "الحلقة 1",
-          "duration": "21:00",
-          "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-1.mp4"
-        },
-        {
-          "number": 2,
-          "title": "الحلقة 2",
-          "duration": "43:20",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 3,
-          "title": "الحلقة 3",
-          "duration": "46:10",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "title": "دامو ستحيل",
-      "poster": "https://image.tmdb.org/t/p/original/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-      "episodes": [
-        {
-          "number": 1,
-          "title": "الحلقة 1",
-          "duration": "21:00",
-          "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-1.mp4"
-        },
-        {
-          "number": 2,
-          "title": "الحلقة 2",
-          "duration": "43:20",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-        },
-        {
-          "number": 3,
-          "title": "الحلقة 3",
-          "duration": "46:10",
-          "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-        }
-      ]
+  "id": 17,
+  "title": "دامو ستحيل",
+  "poster": "https://image.tmdb.org/t/p/original/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
+  "episodes": [
+    {"number": 1, "title": "الحلقة 1", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-1.mp4"},
+    {"number": 2, "title": "الحلقة 2", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-2.mp4"},
+    {"number": 3, "title": "الحلقة 3", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-3.mp4"},
+    {"number": 4, "title": "الحلقة 4", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-4.mp4"},
+    {"number": 5, "title": "الحلقة 5", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-5.mp4"},
+    {"number": 6, "title": "الحلقة 6", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-6.mp4"},
+    {"number": 7, "title": "الحلقة 7", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-7.mp4"},
+    {"number": 8, "title": "الحلقة 8", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-8.mp4"},
+    {"number": 9, "title": "الحلقة 9", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-9.mp4"},
+    {"number": 10, "title": "الحلقة 10", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-10.mp4"},
+    {"number": 11, "title": "الحلقة 11", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-11.mp4"},
+    {"number": 12, "title": "الحلقة 12", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-12.mp4"},
+    {"number": 13, "title": "الحلقة 13", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-13.mp4"},
+    {"number": 14, "title": "الحلقة 14", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-14.mp4"},
+    {"number": 15, "title": "الحلقة 15", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-15.mp4"},
+    {"number": 16, "title": "الحلقة 16", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-16.mp4"},
+    {"number": 17, "title": "الحلقة 17", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-17.mp4"},
+    {"number": 18, "title": "الحلقة 18", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-18.mp4"},
+    {"number": 19, "title": "الحلقة 19", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-19.mp4"},
+    {"number": 20, "title": "الحلقة 20", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-20.mp4"}
+  ]
     },
     {
       "id": 16,
