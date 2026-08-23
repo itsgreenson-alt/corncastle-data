@@ -4,12 +4,41 @@
       "id": 1,
       "title": "دامو ستحيل",
       "poster": "https://image.tmdb.org/t/p/original/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg",
-      "episodes": [
-        {"number": 1, "title": "الحلقة 1", "duration": "21:00", "video": "https://site.word.tn/videos/kim-possible-part-1/kim-possible-part-1-1.mp4"},
-        {"number": 2, "title": "الحلقة 2", "duration": "43:20", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"},
-        {"number": 3, "title": "الحلقة 3", "duration": "46:10", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"}
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "video": "https://site.word.tn/videos/episode1.mp4"
+            },
+            {
+              "number": 2,
+              "title": "الحلقة 2",
+              "video": "https://site.word.tn/videos/episode2.mp4"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "title": "الحلقة 1",
+              "video": "https://site.word.tn/videos/s2-episode1.mp4"
+            },
+            {
+              "number": 2,
+              "title": "الحلقة 2",
+              "video": "https://site.word.tn/videos/s2-episode2.mp4"
+            }
+          ]
+        }
       ]
-    },
+    }
+  ]
+}
     {
       "id": 2,
       "title": "الجاسوسات",
