@@ -1,5 +1,37 @@
 {
   "shows": [
+    {
+  "id": 26,
+  "title": "سيارات 2",
+  "poster": "https://image.tmdb.org/t/p/original/6mVvjymPpuzE0VYAWAUCBxBAQVW.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "01:46:00", "video": "https://archive.org/download/40animeHD/Cars220111080pArabic.mp4"}
+  ]
+},
+  {
+  "id": 25,
+  "title": "شجاعة",
+  "poster": "https://image.tmdb.org/t/p/original/L6qqU6Q3k4MmPojncNbT43FSTL.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "01:33:00", "video": "https://archive.org/download/40animeHD/Brave20121080pArabic.mp4"}
+  ]
+},
+  {
+  "id": 24,
+  "title": "الجميلة والوحش",
+  "poster": "https://image.tmdb.org/t/p/original/7oCAPOphDKpIaxTrnukmDrZ8XKD.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "01:24:00", "video": "https://dn710802.ca.archive.org/0/items/40animeHD/BeautyAndTheBeast19911080pArabic.mp4"}
+  ]
+},
+  {
+  "id": 23,
+  "title": "وحش في باريس",
+  "poster": "https://image.tmdb.org/t/p/original/jerM6xBeRfIr2rLg2pICmduzoyf.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "", "video": "https://dn710802.ca.archive.org/0/items/40animeHD/AMonsterInParis20111080pArabic.mp4"}
+  ]
+},
 {
   "id": 22,
   "title": "101 مرقش الجزء الثاني",
