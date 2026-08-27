@@ -2,11 +2,10 @@
   "shows": [
 {
   "id": 22,
-  "title": "أسطورة مولان",
-  "poster": "https://image.tmdb.org/t/p/original/odh9Ic8qJQkCr5vHQH1NUJn2vn2.jpg",
+  "title": "101 مرقش الجزء الثاني",
+  "poster": "https://image.tmdb.org/t/p/original/1XBtEPuBe4GsUlxLWm6zJoneQIQ.jpg",
   "episodes": [
-    {"number": 1, "title": "الجزء الأول", "duration": "01:27:00", "video": "https://archive.org/serve/animation-arabic/Home-2015.mp4"},
-    {"number": 2, "title": "الجزء الثاني", "duration": "01:19:00", "video": "https://archive.org/serve/disney-channel-original-movies/Alley%20Cats%20Strike%20%282000%29.mp4"}
+    {"number": 1, "title": " الجزء الثاني", "duration": "", "video": "https://archive.org/serve/40animeHD/101%20Dalmatians%20II%20Patchs%20London%20Adventure%20%5B2003%5D%201080p%20Arabic.mp4"}
   ]
 },
   {
