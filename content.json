@@ -1,6 +1,14 @@
 {
   "shows": [
     {
+  "id": 27,
+  "title": "البحث عن نيمو",
+  "poster": "https://image.tmdb.org/t/p/original/33YtcDp2BGxG7vKxno3laymNuM4.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "01:40:00", "video": "https://archive.org/download/40animeHD/FindingNemo20031080pArabic.mp4"}
+  ]
+},
+    {
   "id": 26,
   "title": "سيارات 2",
   "poster": "https://image.tmdb.org/t/p/original/6mVvjymPpuzE0VYAWAUCBxBAQVW.jpg",
