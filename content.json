@@ -1,5 +1,76 @@
 {
   "shows": [
+    {
+  "id": 30,
+  "title": "سكوبي دو! شركة حل الألغاز",
+  "poster": "https://image.tmdb.org/t/p/original/nKXpiFFPMY0AEZIvXnz5vIsjXKU.jpg",
+  "seasons": [
+    {
+      "number": 1,
+      "title": "الموسم الأول",
+      "episodes": [
+        { "number": 1, "title": "الحلقة 1", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-1.mp4" },
+        { "number": 2, "title": "الحلقة 2", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-2.mp4" },
+        { "number": 3, "title": "الحلقة 3", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-3.mp4" },
+        { "number": 4, "title": "الحلقة 4", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-4.mp4" },
+        { "number": 5, "title": "الحلقة 5", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-5.mp4" },
+        { "number": 6, "title": "الحلقة 6", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-6.mp4" },
+        { "number": 7, "title": "الحلقة 7", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-7.mp4" },
+        { "number": 8, "title": "الحلقة 8", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-8.mp4" },
+        { "number": 9, "title": "الحلقة 9", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-9.mp4" },
+        { "number": 10, "title": "الحلقة 10", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-10.mp4" },
+        { "number": 11, "title": "الحلقة 11", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-11.mp4" },
+        { "number": 12, "title": "الحلقة 12", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-12.mp4" },
+        { "number": 13, "title": "الحلقة 13", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-13.mp4" },
+        { "number": 14, "title": "الحلقة 14", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-14.mp4" },
+        { "number": 15, "title": "الحلقة 15", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-15.mp4" },
+        { "number": 16, "title": "الحلقة 16", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-16.mp4" },
+        { "number": 17, "title": "الحلقة 17", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-17.mp4" },
+        { "number": 18, "title": "الحلقة 18", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-18.mp4" },
+        { "number": 19, "title": "الحلقة 19", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-19.mp4" },
+        { "number": 20, "title": "الحلقة 20", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-20.mp4" },
+        { "number": 21, "title": "الحلقة 21", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-21.mp4" },
+        { "number": 22, "title": "الحلقة 22", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-22.mp4" },
+        { "number": 23, "title": "الحلقة 23", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-23.mp4" },
+        { "number": 24, "title": "الحلقة 24", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-24.mp4" },
+        { "number": 25, "title": "الحلقة 25", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-25.mp4" },
+        { "number": 26, "title": "الحلقة 26", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-1/scooby-doo-mystery-incorporated-part-1-26.mp4" }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الموسم الثاني",
+      "episodes": [
+        { "number": 1, "title": "الحلقة 1", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-1.mp4" },
+        { "number": 2, "title": "الحلقة 2", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-2.mp4" },
+        { "number": 3, "title": "الحلقة 3", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-3.mp4" },
+        { "number": 4, "title": "الحلقة 4", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-4.mp4" },
+        { "number": 5, "title": "الحلقة 5", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-5.mp4" },
+        { "number": 6, "title": "الحلقة 6", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-6.mp4" },
+        { "number": 7, "title": "الحلقة 7", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-7.mp4" },
+        { "number": 8, "title": "الحلقة 8", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-8.mp4" },
+        { "number": 9, "title": "الحلقة 9", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-9.mp4" },
+        { "number": 10, "title": "الحلقة 10", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-10.mp4" },
+        { "number": 11, "title": "الحلقة 11", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-11.mp4" },
+        { "number": 12, "title": "الحلقة 12", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-12.mp4" },
+        { "number": 13, "title": "الحلقة 13", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-13.mp4" },
+        { "number": 14, "title": "الحلقة 14", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-14.mp4" },
+        { "number": 15, "title": "الحلقة 15", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-15.mp4" },
+        { "number": 16, "title": "الحلقة 16", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-16.mp4" },
+        { "number": 17, "title": "الحلقة 17", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-17.mp4" },
+        { "number": 18, "title": "الحلقة 18", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-18.mp4" },
+        { "number": 19, "title": "الحلقة 19", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-19.mp4" },
+        { "number": 20, "title": "الحلقة 20", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-20.mp4" },
+        { "number": 21, "title": "الحلقة 21", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-21.mp4" },
+        { "number": 22, "title": "الحلقة 22", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-22.mp4" },
+        { "number": 23, "title": "الحلقة 23", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-23.mp4" },
+        { "number": 24, "title": "الحلقة 24", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-24.mp4" },
+        { "number": 25, "title": "الحلقة 25", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-25.mp4" },
+        { "number": 26, "title": "الحلقة 26", "duration": "22:00", "video": "https://site.word.tn/videos/scooby-doo-mystery-incorporated-part-2/scooby-doo-mystery-incorporated-part-2-26.mp4" }
+      ]
+    }
+  ]
+},
   {
   "id": 29,
   "title": "أسطورة كورا",
