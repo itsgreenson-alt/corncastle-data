@@ -1,6 +1,32 @@
 {
   "shows": [
     {
+  "id": 39,
+  "title": "الأخوان ماريو الخارقان",
+  "poster": "https://image.tmdb.org/t/p/original/dXsZBozFiOgLr4rsyFFwM7UppYH.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "01:32:00", "video": "https://dn710208.ca.archive.org/0/items/animation-arabic/TheSuperMarioBros-2023.mp4"}
+  ]
+},
+  {
+  "id": 38,
+  "title": "خلطبيطة بالصلصة",
+  "poster": "https://image.tmdb.org/t/p/original/g6553NxnafrGo3AQwFUrt4JZZET.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "01:51:00", "video": "https://archive.org/download/animation-arabic/Ratatouille.2007.ia.mp4"}
+  ]
+},
+  {
+  "id": 37,
+  "title": "علاء الدين",
+  "poster": "https://image.tmdb.org/t/p/original/d2SwwAhbXmrXK39Wzsj45lJNrRd.jpg",
+  "episodes": [
+    {"number": 1, "title": "الجزء الأول", "duration": "01:30:00", "video": "https://archive.org/download/DubbingEgyptianAnimation/Aladdin%201.By.Monster.mp4"},
+    {"number": 2, "title": "الجزء الثاني", "duration": "01:09:00", "video": "https://archive.org/download/DubbingEgyptianAnimation/Aladdin%202.By.Monster.mp4"},
+    {"number": 3, "title": "الجزء الثالث", "duration": "01:23:00", "video": "https://archive.org/download/DubbingEgyptianAnimation/Aladdin%203.By.Monster.mp4"}
+  ]
+},
+    {
   "id": 36,
   "title": "الوطن",
   "poster": "https://image.tmdb.org/t/p/original/usFenYnk6mr8C62dB1MoAfSWMGR.jpg",
