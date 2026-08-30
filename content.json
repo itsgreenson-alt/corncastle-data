@@ -1,6 +1,32 @@
 {
   "shows": [
     {
+"id": 57,
+"title": "بامبي",
+"poster": "https://image.tmdb.org/t/p/original/976SWcH4atIfyqUzX92251Ch17a.jpg",
+"episodes": [
+{"number": 1, "title": "الجزء الأول", "duration": "01:10:00", "video": "https://dn720002.ca.archive.org/0/items/DubbingEgyptianAnimation/Bambi%20I.mp4"},
+{"number": 2, "title": "الجزء الثاني", "duration": "01:12:00", "video": "https://dn760107.eu.archive.org/0/items/DubbingEgyptianAnimation/Bambi.2.mp4"}
+]
+},
+{
+"id": 56,
+"title": "أطلانتس: الإمبراطورية المفقودة",
+"poster": "https://image.tmdb.org/t/p/original/mRbhr6yyq3OzIPm7eidodWB32kP.jpg",
+"episodes": [
+{"number": 1, "title": "الجزء الأول", "duration": "01:35:00", "video": "https://archive.org/download/DubbingEgyptianAnimation/Atlantis%20I%20-By.Monster.mp4"},
+{"number": 2, "title": "الجزء الثاني", "duration": "01:20:00", "video": "https://archive.org/download/DubbingEgyptianAnimation/Atlantis%20II%2CBy.Monster.mp4"}
+]
+},
+{
+"id": 55,
+"title": "أليس في بلاد العجائب",
+"poster": "https://image.tmdb.org/t/p/original/6kkYxZI1IHv0M9g3PGyJ0Pinnc4.jpg",
+"episodes": [
+{"number": 1, "title": "الجزء الأول", "duration": "01:15:00", "video": "https://archive.org/download/DubbingEgyptianAnimation/Alice%20In%20Wonderland.mp4"}
+]
+},
+    {
   "id": 54,
   "title": "روبن هود",
   "poster": "https://image.tmdb.org/t/p/original/4zBcu9rKw1SHQc02g5F6B3FTNTN.jpg",
